@@ -1,0 +1,9 @@
+torch==2.3.0
+transformers==4.44.2
+bitsandbytes==0.43.1
+accelerate==0.31.0
+sentence-transformers==2.7.0
+langchain==0.2.12
+langchain-community==0.2.11
+faiss-cpu==1.8.0
+protobuf==4.25.3
